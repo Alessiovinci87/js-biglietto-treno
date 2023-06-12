@@ -1,0 +1,26 @@
+.image-container {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .ticket {
+    display: block;
+    width: 100%;
+    height: auto;
+  }
+  
+  .text-overlay {
+    position: absolute;
+    top: 40%;
+    left: 42%;
+    text-align: left;
+    color: black;
+  }
+  
+  .prezzo-biglietto h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+ 
+  
